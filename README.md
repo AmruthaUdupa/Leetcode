@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AmruthaUdupa/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/AmruthaUdupa/Leetcode/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AmruthaUdupa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmruthaUdupa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/AmruthaUdupa/Leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AmruthaUdupa/Leetcode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/AmruthaUdupa/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
