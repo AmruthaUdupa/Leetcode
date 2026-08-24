@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AmruthaUdupa/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AmruthaUdupa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmruthaUdupa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/AmruthaUdupa/Leetcode/tree/master/0189-rotate-array) |
@@ -25,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AmruthaUdupa/Leetcode/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/AmruthaUdupa/Leetcode/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/AmruthaUdupa/Leetcode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/AmruthaUdupa/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
